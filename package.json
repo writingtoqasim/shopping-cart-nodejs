@@ -5,7 +5,7 @@
   "email": "gtsopour@gmail.com",
   "private": false,
   "scripts": {
-    "start": "npm start"
+    "start": "npm"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
